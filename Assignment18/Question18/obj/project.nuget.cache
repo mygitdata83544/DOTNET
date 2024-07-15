@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JayJ3vhJdyjl/rkBK3yYFe9DdPCih+PBy8tHDvLcaVlNr/LoauOgrHiupmX+E4M9v2PSE2jC6k6O3cvMMr9CtA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\subha\\Downloads\\DotNet_Assignments\\DotNet_Assignments\\Question_18\\Question18\\Question18.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\subha\\Downloads\\DotNet_Assignments\\DotNet_Assignments\\Question_18\\MathsStatic\\MathsStatic.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\subha\\Downloads\\DotNet_Assignments\\DotNet_Assignments\\Question_18\\MathsStatic\\MathsStatic.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\bin\Debug\net6.0\Assignment7.exe
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\bin\Debug\net6.0\Assignment7.deps.json
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\bin\Debug\net6.0\Assignment7.runtimeconfig.json
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\bin\Debug\net6.0\Assignment7.dll
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\bin\Debug\net6.0\Assignment7.pdb
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\obj\Debug\net6.0\Assignment7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\obj\Debug\net6.0\Assignment7.AssemblyInfoInputs.cache
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\obj\Debug\net6.0\Assignment7.AssemblyInfo.cs
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\obj\Debug\net6.0\Assignment7.csproj.CoreCompileInputs.cache
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\obj\Debug\net6.0\Assignment7.dll
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\obj\Debug\net6.0\refint\Assignment7.dll
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\obj\Debug\net6.0\Assignment7.pdb
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\obj\Debug\net6.0\Assignment7.genruntimeconfig.cache
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment7\obj\Debug\net6.0\ref\Assignment7.dll

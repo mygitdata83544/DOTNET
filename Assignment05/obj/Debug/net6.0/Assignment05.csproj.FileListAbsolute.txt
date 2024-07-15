@@ -1,0 +1,14 @@
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\bin\Debug\net6.0\Assignment05.exe
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\bin\Debug\net6.0\Assignment05.deps.json
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\bin\Debug\net6.0\Assignment05.runtimeconfig.json
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\bin\Debug\net6.0\Assignment05.dll
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\bin\Debug\net6.0\Assignment05.pdb
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\obj\Debug\net6.0\Assignment05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\obj\Debug\net6.0\Assignment05.AssemblyInfoInputs.cache
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\obj\Debug\net6.0\Assignment05.AssemblyInfo.cs
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\obj\Debug\net6.0\Assignment05.csproj.CoreCompileInputs.cache
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\obj\Debug\net6.0\Assignment05.dll
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\obj\Debug\net6.0\refint\Assignment05.dll
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\obj\Debug\net6.0\Assignment05.pdb
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\obj\Debug\net6.0\Assignment05.genruntimeconfig.cache
+C:\Users\subha\OneDrive\Desktop\Ms.Net\Solution_Assignment\Assignment05\obj\Debug\net6.0\ref\Assignment05.dll
